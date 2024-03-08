@@ -1,5 +1,9 @@
+html,body{
+  font-family: "orbitron", sans-serif;
+}
 .navbar {
   z-index: 100;
+  font-family: "orbitron", sans-serif;
 }
 .navbar-brand {
   color: #fff;
