@@ -1,0 +1,91 @@
+.navbar {
+  z-index: 100;
+}
+.navbar-brand {
+  color: #fff;
+}
+.navbar-nav,
+.navbar-nav > li a {
+  color: #fff;
+}
+#carouselExampleAutoplaying {
+  margin-top: -65px !important;
+}
+#quienes-somos {
+  background-color: black;
+  width: 100%;
+  height: 80px;
+}
+#quienes-somos p {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.row p {
+  color: white;
+}
+#contact {
+  background-color: black;
+  width: 100%;
+  height: 80px;
+}
+#contact p {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#formContent {
+  background-color: black;
+  width: 100%;
+  padding: 20px;
+}
+
+#destacados {
+  background-color: black;
+}
+.container-fluid {
+  background-color: #000;
+  width: 100%;
+}
+.text-center {
+  color: #fff;
+}
+.icon-title {
+  width: 100%;
+  height: auto;
+  background-color: darkturquoise;
+  text-align: center;
+  color: #fff;
+}
+.card-body {
+  background-color: darkturquoise;
+}
+.btn {
+  background-color: darkturquoise;
+}
+footer {
+  width: 100%;
+  height: auto;
+  padding-bottom: 15px;
+}
+.viajesChile {
+  background-color: darkturquoise;
+}
+.message-area {
+  color: #fff;
+}
+@media only screen and (max-width: 768px) {
+  .navbar{
+    background: darkturquoise;
+    color: #ffffff;
+  }
+
+
+  #carouselExampleAutoplaying{
+    margin-top: 0px !important;
+  }
+
+
+}
