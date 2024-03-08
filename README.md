@@ -6,7 +6,10 @@ Inicio carrusel creado con boostrap
 Quienes somos, desaparece en formato m s boostrap 
 Destacados, se puede clickear el título de la imagen y desaparece y aparece texto, creado con JS
 Boton enviar se despliega un parrafo que indica "el mensaje fue enviado correctamente"  creado con JS
-Los iconos de las redes sociales llevan a estas mismas creado con boostrap
+Los iconos de las redes sociales llevan a estas mismas creado con boostrap.
+se sube a la nube y se crea 1 rama desarrollo para realizar cambios en la nube.
+se realizan 6 cambios, cómo cammbio de fuente a quienes somos y luego a todo el sitio,
+se crean tooltips, y se suben los cambios a la nube para luego mergearlas con main.
 
 # Requerimientos
 La página debe contener las siguientes secciones:
