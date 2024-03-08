@@ -9,9 +9,6 @@ $(document).ready(function () {
     alert("El mensaje fue enviado correctamente");
   });
 
-  $(".ingredientesTxt, .preparacionTxt").on("dblclick", function () {
-    $(this).css("color", "red");
-  });
 
   $(".embalse").on("click", function () {
     $("#embalse2").toggle();
