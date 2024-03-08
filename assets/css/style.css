@@ -21,8 +21,8 @@
   text-align: center;
   padding-top: 20px;
 }
-.letra{
-  font-family:"Orbitron", sans-serif;;
+.letra {
+  font-family: "orbitron", sans-serif;
 }
 
 .row p {
@@ -80,15 +80,12 @@ footer {
   color: #fff;
 }
 @media only screen and (max-width: 768px) {
-  .navbar{
+  .navbar {
     background: darkturquoise;
     color: #ffffff;
   }
 
-
-  #carouselExampleAutoplaying{
+  #carouselExampleAutoplaying {
     margin-top: 0px !important;
   }
-
-
 }
